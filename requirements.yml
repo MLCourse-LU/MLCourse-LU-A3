@@ -1,0 +1,8 @@
+name: ML_assignment_3
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - scikit-learn
+  - matplotlib
+  - pandas
