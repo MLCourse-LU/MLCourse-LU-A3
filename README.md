@@ -8,7 +8,7 @@ This repository contains the exercises and questions for assignment 3.
 * In your terminal, navigate to the project folder.
 * It is highly recommended to use the conda environment manager for this assignment. Create a new conda environment in your terminal of choice by navigating to the project folder and entering the command:
 
-    1. `conda env create -file requirements.yml`
+    1. `conda env create --file requirements.yml`
     if this does not work, you can also try using the following command:
     1. `conda create -n MyEnvName`
     2. `conda activate MyEnvName`
