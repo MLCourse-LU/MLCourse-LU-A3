@@ -4,5 +4,9 @@ channels:
 dependencies:
   - numpy
   - scikit-learn
+  - scikit-learn-extra
   - matplotlib
   - pandas
+  - jupyter
+  - jupyterlab
+  - ipykernel
