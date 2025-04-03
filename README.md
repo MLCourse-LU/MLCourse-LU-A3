@@ -1,5 +1,5 @@
 # MLCourse-LU-A3
-## Assignment 3: Clustering
+## Assignment 3: Clustering and dimensionality reduction
 
 This repository contains the exercises and questions for assignment 3.
 
